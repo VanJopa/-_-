@@ -144,7 +144,7 @@
   }, true)
 
   /**
-   * Scroll with ofset on page load with hash links in the url
+   * Scroll with ofset on page load with hash links in the url ||JQuery||
    */
   window.addEventListener('load', () => {
     if (window.location.hash) {
